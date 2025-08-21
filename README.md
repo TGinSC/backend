@@ -28,10 +28,11 @@
 
 ```
 # 后端
-git clone https://github.com/TGinSC/vibe-coding.git
-cd ./vibe-coding/back_end
+git clone https://github.com/TGinSC/backend.git
+cd ./backend
 go mod tidy
 go run main.go
+cd ../
 # 前端
 git clone https://github.com/Adam-code-line/SilentFlow.git
 cd SilentFlow
